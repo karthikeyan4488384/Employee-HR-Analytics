@@ -1,0 +1,11 @@
+EmpID,Name,Department,Gender,Age,Experience_Years,Salary,Join_Date,Performance_Rating
+E101,Arun,IT,M,25,2,40000,2021-06-15,3
+E102,Bala,HR,M,28,4,50000,2019-03-20,4
+E103,Chitra,Finance,F,32,7,65000,2017-11-05,5
+E104,Deepa,IT,F,29,5,58000,2018-08-12,4
+E105,Ezhil,Sales,M,35,10,,2015-01-10,5
+E106,Fathima,HR,F,26,2,42000,2022-02-18,3
+E107,Gokul,IT,M,31,6,60000,2019-09-30,4
+E108,Hema,Finance,F,27,3,,2020-07-25,3
+E109,Irfan,Sales,M,34,8,62000,2016-05-14,4
+E110,Janani,HR,F,30,6,55000,2018-12-01,5
